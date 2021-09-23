@@ -11,7 +11,7 @@ export default function Index() {
                         <img src="/assets/images/usuario.jpeg" alt="" />
                         <div class="absolute">3</div>
                     </div>
-                    <div class="user-name"> Olá, <b> Luciane Costa </b> </div>
+                    <div class="user-name"> Olá, <b> Jonathan Galo </b> </div>
                 </div>
                 
                 <div class="box-image">
